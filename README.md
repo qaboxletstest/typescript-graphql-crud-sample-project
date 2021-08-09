@@ -2,7 +2,7 @@
 
 This project is created for QA to practice CRUD operations on GRAPHQL endpoints. Download this code and run *npm install* in the terminal to bring the server up. 
 
-Kindly note this project is solely for performing CRUD; no validations are in place.
+Kindly note this project is solely for performing CRUD; only basic Input validations are in place. That means you can use it for practicing writing tests for GraphQL and we know there are bugs in this project.Kindly do not raise any bugs.
 
 # READ USERS
 ```
