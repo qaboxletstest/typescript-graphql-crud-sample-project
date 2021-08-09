@@ -6,7 +6,6 @@ Kindly note this project is solely for performing CRUD; no validations are in pl
 
 # READ USERS
 ```
-Query
 {
   users{
     id
@@ -38,7 +37,7 @@ mutation{
 
 ```
 
-# UPDATE USER
+# UPDATE USER ({id:1})
 
 ```
 mutation{
@@ -50,7 +49,7 @@ mutation{
 
 ```
 
-# DELETE USER
+# DELETE USER ({id:1})
 
 ```
 mutation{
